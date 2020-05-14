@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1e8ff3a-0066-4d01-9716-da5feadc3452" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bB3afzP4fnVh4gkijzaaStQiog" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Top Users" />
+      <recent name="$PROJECT_DIR$/Influencers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1e8ff3a-0066-4d01-9716-da5feadc3452" name="Default Changelist" comment="" />
+      <created>1588091724297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588091724297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="38" key="SettingsEditor" timestamp="1588207343180">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="249" y="38" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1588207343180" />
+    <state x="249" y="38" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1588113206784" />
+    <state x="241" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1589411287949">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="241" y="230" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1588777662712" />
+    <state x="241" y="231" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1588949607905" />
+    <state x="241" y="232" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1589411287949" />
+    <state x="241" y="233" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1588115417638" />
+    <state x="596" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1588799421341">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="596" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1588799421341" />
+  </component>
+</project>
